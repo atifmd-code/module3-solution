@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.tall-section {
+  height: 1000px;
+  background-color: #e0f7fa;
+  padding: 20px;
+}
+
+.navbar-collapse {
+  background-color: #e0f7fa;
+}
